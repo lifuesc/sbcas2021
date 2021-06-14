@@ -57,18 +57,18 @@ Referências
 
 <h3> Índice dos tutoriais </h3>
 
-1. [Tutoriais](https://github.com/lifuesc/sbcas2021/tree/main/tutoriais/)
-   - [Instalação VsCode](https://github.com/lifuesc/sbcas2021/tree/main/tutoriais/vscode/instalacao.md)
-   - [Instalação NodeJs](https://github.com/lifuesc/sbcas2021/tree/main/tutoriais/node/instalacao.md)
-   - [Instalação MetaMask e primeiro acesso](https://github.com/lifuesc/sbcas2021/tree/main/tutoriais/metamask/instalacao.md)
-   - [Adicionando Ether na rede rinkebay](https://github.com/lifuesc/sbcas2021/tree/main/tutoriais/metamask/adicionandoEtherRinkebay.md)
-   - [Criando novas contas no MetaMask](https://github.com/lifuesc/sbcas2021/tree/main/tutoriais/metamask/criandoContas.md)
-   - [Instalando o React](https://github.com/lifuesc/sbcas2021/tree/main/tutoriais/reactjs/instalacao.md)
-   - [Criando projeto React](https://github.com/lifuesc/sbcas2021/tree/main/tutoriais/reactjs/criandoProjeto.md)
-2. [Práticas](https://github.com/lifuesc/sbcas2021/tree/main/Praticas)
-   - [Primeiro Smart Contract - Inbox.sol](https://github.com/lifuesc/sbcas2021/tree/main/Praticas/smart-contract-test)
-   - [Projeto Loteria](https://github.com/lifuesc/sbcas2021/tree/main/Praticas/loteria)
-   - [DApp Loteria ReactJs](https://github.com/lifuesc/sbcas2021/tree/main/Praticas/loteria-react)
+1. [Tutoriais](https://github.com/lifuesc/sbcas2021/tree/master/tutoriais/)
+   - [Instalação VsCode](https://github.com/lifuesc/sbcas2021/tree/master/tutoriais/vscode/instalacao.md)
+   - [Instalação NodeJs](https://github.com/lifuesc/sbcas2021/tree/master/tutoriais/node/instalacao.md)
+   - [Instalação MetaMask e primeiro acesso](https://github.com/lifuesc/sbcas2021/tree/master/tutoriais/metamask/instalacao.md)
+   - [Adicionando Ether na rede rinkebay](https://github.com/lifuesc/sbcas2021/tree/master/tutoriais/metamask/adicionandoEtherRinkebay.md)
+   - [Criando novas contas no MetaMask](https://github.com/lifuesc/sbcas2021/tree/master/tutoriais/metamask/criandoContas.md)
+   - [Instalando o React](https://github.com/lifuesc/sbcas2021/tree/master/tutoriais/reactjs/instalacao.md)
+   - [Criando projeto React](https://github.com/lifuesc/sbcas2021/tree/master/tutoriais/reactjs/criandoProjeto.md)
+2. [Práticas](https://github.com/lifuesc/sbcas2021/tree/master/Praticas)
+   - [Primeiro Smart Contract - Inbox.sol](https://github.com/lifuesc/sbcas2021/tree/master/Praticas/smart-contract-test)
+   - [Projeto Loteria](https://github.com/lifuesc/sbcas2021/tree/master/Praticas/loteria)
+   - [DApp Loteria ReactJs](https://github.com/lifuesc/sbcas2021/tree/master/Praticas/loteria-react)
 
 [contributors-shield]: https://img.shields.io/github/contributors/lifuesc/sbcas2021.svg?style=for-the-badge
 [contributors-url]: https://github.com/lifuesc/sbcas2021/graphs/contributors
@@ -79,4 +79,4 @@ Referências
 [issues-shield]: https://img.shields.io/github/issues/lifuesc/sbcas2021.svg?style=for-the-badge
 [issues-url]: https://github.com/lifuesc/sbcas2021/issues
 [license-shield]: https://img.shields.io/github/license/lifuesc/sbcas2021.svg?style=for-the-badge
-[license-url]: https://github.com/lifuesc/sbcas2021/blob/main/LICENSE
+[license-url]: https://github.com/lifuesc/sbcas2021/blob/master/LICENSE
