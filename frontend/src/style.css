@@ -1,0 +1,91 @@
+h1,
+h2,
+h3 {
+  /* Deixa as tags centralizadas */
+  text-align: center;
+}
+.divider {
+  /* Poe uma largura vertical de 2px */
+  padding: 2px 0;
+  /* Cor de fundo */
+  background-color: #00acc1;
+  /* Borda arredondadas */
+  border-radius: 5px;
+}
+
+table {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #00acc1;
+  color: white;
+}
+input[type="text"]:disabled,
+input[type="text"] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  color: black;
+}
+
+label {
+  font-weight: bold;
+}
+
+#form {
+  display: block;
+  border-radius: 5px;
+  padding: 20px;
+  height: 200px;
+}
+.form-div {
+  width: 45%;
+  float: left;
+  padding: 0 10px;
+}
+.form-div2 {
+  width: 45%;
+
+  padding: 30px 10px;
+}
+
+.form-div3 {
+  width: 45%;
+  padding: 30px 10px;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.success {
+  color: green !important;
+}
+.error {
+  color: red !important;
+}
