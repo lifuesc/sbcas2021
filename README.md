@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/lifuesc/sbcas2021/">
-    <img src="./img/sbsi2.png" alt="Logo" width="800">
+    <img src="./img/logo.png" alt="Logo" width="800">
   </a>
 
   <h2 align="center">Titulo</h2>
