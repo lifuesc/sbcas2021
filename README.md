@@ -25,8 +25,6 @@
 
 A Internet das Coisas (Internet of Things (IoT)) agrega dispositivos capazes de capturar informações e interferir no ambiente, atuando em sistemas de domínios de aplicações diferentes, como por exemplo o da saúde. Estes sistemas precisam de uma camada de segurança para garantir, dentre outras características, a irrefutabilidade, o anonimato e a integridade dos dados manipulados. Neste sentido, a integração com a blockchain, através dos contratos inteligentes, atenderia a esta necessidade. Este capítulo apresenta, portanto, pesquisas recentes que utilizam IoT, blockchain e contratos inteligentes na área da saúde. Serão apresentados os detalhes para se empregar estas tecnologias na área da saúde, os desafios técnicos e os protocolos de consenso envolvidos nas principais aplicações. Na sequência, apresenta-se uma prática que aplica os conhecimentos abordados na caeia de suprimentos para a saúde, construindo uma aplicação descentralizada (DApp) que monitora a temperatura de vacinas durante o seu armazenamento. Ao final, fornece um guia de informações que permite aos interessados a concepção de treinamentos nesta área, contemplando, inclusive, a realização de exercícios práticos.
 
-A seguir, temos o Índice do minicurso e o ïndice dos tutoriais, com as práticas!
-
 <h3> Índice dos tutoriais </h3>
 
 1. [Tutoriais](https://github.com/lifuesc/sbcas2021/tree/master/tutoriais/)
