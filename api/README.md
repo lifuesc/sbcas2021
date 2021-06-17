@@ -1,4 +1,4 @@
-# API-REST contrato sensor
+# API-REST contrato vacina
 
 ## Instalação
 
