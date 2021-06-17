@@ -36,9 +36,10 @@ A Internet das Coisas (Internet of Things (IoT)) agrega dispositivos capazes de 
    - [Instalando o React](https://github.com/lifuesc/sbcas2021/tree/master/tutoriais/reactjs/instalacao.md)
    - [Criando projeto React](https://github.com/lifuesc/sbcas2021/tree/master/tutoriais/reactjs/criandoProjeto.md)
 2. [Práticas](https://github.com/lifuesc/sbcas2021/tree/master/Praticas)
-   - [Primeiro Smart Contract - Inbox.sol](https://github.com/lifuesc/sbcas2021/tree/master/Praticas/smart-contract-test)
-   - [Projeto Loteria](https://github.com/lifuesc/sbcas2021/tree/master/Praticas/loteria)
-   - [DApp Loteria ReactJs](https://github.com/lifuesc/sbcas2021/tree/master/Praticas/loteria-react)
+   - [Primeiro Smart Contract - Inbox.sol](https://github.com/lifuesc/sbcas2021/tree/master/smart-contract-test)
+   - [API Vacina](https://github.com/lifuesc/sbcas2021/tree/master/api)
+   - [Deploy Vacina](https://github.com/lifuesc/sbcas2021/tree/master/deploy)
+   - [DApp Vacina ReactJs](https://github.com/lifuesc/sbcas2021/tree/master/frontend)
 
 [contributors-shield]: https://img.shields.io/github/contributors/lifuesc/sbcas2021.svg?style=for-the-badge
 [contributors-url]: https://github.com/lifuesc/sbcas2021/graphs/contributors
