@@ -10,50 +10,22 @@
     <img src="./img/logo.png" alt="Logo" width="800">
   </a>
 
-  <h2 align="center">Titulo</h2>
+  <h2 align="center">Internet das coisas, blockchain e contratos inteligentes <br/> aplicados à saúde</h2>
 
 </p>
 
 ### Autores
 
 - Jauberth W. Abijaude (UFBA, UESC)
-- Levy Santiago (UFBA)
+- Aprígio Bezerra (UESC)
+- Rita Barretto (UFBA)
 - Henrique Serra (UESC)
 - Pérciles de Lima Sobreira (University of Quebec Outaouais, Cégep de Saint-Hyacinthe)
 - Fabíola Greve (UFBA)
 
-Introdução
+A Internet das Coisas (Internet of Things (IoT)) agrega dispositivos capazes de capturar informações e interferir no ambiente, atuando em sistemas de domínios de aplicações diferentes, como por exemplo o da saúde. Estes sistemas precisam de uma camada de segurança para garantir, dentre outras características, a irrefutabilidade, o anonimato e a integridade dos dados manipulados. Neste sentido, a integração com a blockchain, através dos contratos inteligentes, atenderia a esta necessidade. Este capítulo apresenta, portanto, pesquisas recentes que utilizam IoT, blockchain e contratos inteligentes na área da saúde. Serão apresentados os detalhes para se empregar estas tecnologias na área da saúde, os desafios técnicos e os protocolos de consenso envolvidos nas principais aplicações. Na sequência, apresenta-se uma prática que aplica os conhecimentos abordados na caeia de suprimentos para a saúde, construindo uma aplicação descentralizada (DApp) que monitora a temperatura de vacinas durante o seu armazenamento. Ao final, fornece um guia de informações que permite aos interessados a concepção de treinamentos nesta área, contemplando, inclusive, a realização de exercícios práticos.
 
 A seguir, temos o Índice do minicurso e o ïndice dos tutoriais, com as práticas!
-
-### Índice do Minicurso
-
-1. Introdução  
-   1.1. Histórico e Fundamentos  
-   1.2 Propriedades da Blockchain  
-   1.3 Componentes de uma rede blockchain
-
-2. Ethereum e Contratos Inteligentes  
-   2.1. Plataforma Ethereum  
-   2.1.1. Rede Principal e de Testes  
-   2.1.2. Transações  
-   2.1.3. Consenso  
-   2.2. Contratos Inteligentes
-
-3. Desenvolvimento de Contratos Inteligentes  
-   3.1. Linguagem Solidity  
-   3.2. Construindo um Contrato Inteligente  
-   3.3. Configuração de Ambiente  
-   3.4. Rotina de testes para Contratos Inteligentes
-
-4. Desenvolvendo uma DApp  
-   4.1. Criando uma DApp para interagir com um contrato
-
-5. Como montar um curso de Desenvolvimento Web com Blockchain e Contratos Inteligentes
-
-6. Desafios e Perspectivas
-
-Referências
 
 <h3> Índice dos tutoriais </h3>
 
